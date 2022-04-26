@@ -7,7 +7,7 @@ export default makeStyles((theme) => ({
     display: 'none',
     [theme.breakpoints.up('sm')]: {
       display: 'block',
-      color: '#003045',
+      color: '#003046',
       
     
     },
